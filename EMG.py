@@ -1,5 +1,3 @@
-
-# for memory error >> try to change the float 64 to float 32 
 import numpy as np
 #import scipy.io as sio
 import pandas as pd
